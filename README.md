@@ -9,7 +9,7 @@
 程序会按照图片大小调整程序客户区大小.若您不想拼3*3的,可以修改代码前几行的<br/>
 define CXJIGSAW 3 //定义拼图维数<br/>
 define CYJIGSAW 3<br/>
-CXJIGSAW 为横向块数<br/><br/>
+CXJIGSAW 为横向块数<br/>
 CYJIGSAW 为纵向块数 默认都为3<br/>
 
 
